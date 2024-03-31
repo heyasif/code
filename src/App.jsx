@@ -42,8 +42,6 @@ function App() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <AllRoutes />
-        <Navbar />
-        <Login />
       </ThemeProvider>
     </>
   );
